@@ -1,5 +1,7 @@
 # 面试题
 
+[👉🏻👉🏻👉🏻预览链接👈🏻👈🏻👈🏻](https://lcjihong.github.io/red-package-interview/)
+
 ### 实现以下需求
 使用接口数据和切图资源，实现以下需求。
 ### UI 视觉
