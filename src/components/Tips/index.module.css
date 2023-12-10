@@ -1,0 +1,20 @@
+.tipsWrapper {
+  display: flex;
+  align-items: center;
+  font-weight: 300;
+}
+
+.countdown {
+  margin-left: 5rem;
+}
+
+.cdNumber {
+  font-size: 22rem;
+  line-height: 32rem;
+  padding: 0 4rem;
+  background-image: linear-gradient(to bottom, #ffe9b0, #fff1ce);
+  border-radius: 4rem;
+  color: #ff4000;
+  margin: 0 5rem;
+  font-weight: 600;
+}

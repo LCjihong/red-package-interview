@@ -1,0 +1,74 @@
+.packageWrapper {
+  width: 690rem;
+  height: 162rem;
+  background-position: 0 0;
+  background-size: 100% 100%;
+  background-image: url(https://gw.alicdn.com/imgextra/i1/O1CN01SzXzZl1U46EOknhoB_!!6000000002463-2-tps-1380-362.png);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 22rem;
+  margin-left: 13rem;
+}
+
+.mainBox {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.priceBox {
+  width: 198rem;
+  font-family: 'PingFang SC';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #A45927;
+  box-sizing: border-box;
+  font-weight: 500;
+  padding-bottom: 6rem;
+  padding-right: 20rem;
+}
+
+.price {
+  font-size: 68em;
+}
+
+.priceUnit {
+  font-size: 28em;
+  padding-left: 4rem;
+  position: relative;
+  top: 8rem;
+}
+
+.content {
+  color: #FFE9B0;
+}
+
+.title {
+  font-size: 36rem;
+}
+
+.subTitle {
+  font-size: 22rem;
+  margin-top: 4rem;
+  margin-bottom: 16rem;
+}
+
+.buttonBox {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  width: 146rem;
+  height: 64rem;
+  background-image: linear-gradient(to right, #FFE2BD, #FED888);
+  line-height: 64rem;
+  text-align: center;
+  font-size: 36rem;
+  color: #a45927;
+  border-radius: 32rem;
+  margin-right: 26rem;
+}

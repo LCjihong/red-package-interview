@@ -1,0 +1,13 @@
+.homePage {
+  width: 714rem;
+  margin: 20rem auto;
+  padding-bottom: 28rem;
+  background-color: #fff;
+}
+
+.title {
+  font-size: 32rem;
+  line-height: 45rpx;
+  padding: 31rem 0 0 23rem;
+  font-weight: 600;
+}
